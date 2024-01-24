@@ -22,7 +22,8 @@ Here's a breakdown of what each library/module is typically used for:
 4. **features_extraction_to_csv.py:** File that might handle the extraction of facial features and store them in a CSV file, essential for face recognition.
 5. **get_faces_from_camera_tkinter.py:** A file that seems to be related to capturing faces from a camera using Tkinter, possibly for initial data collection.
 6. **requirements.txt:** A file specifying the dependencies and their versions required for your project. Useful for others to set up the same environment.
-7.**README.md:** A placeholder for the project's documentation. It's usually a good practice to fill this with information on how to set up and use your project.   
+
+7. **README.md:** A placeholder for the project's documentation. It's usually a good practice to fill this with information on how to set up and use your project.   
 8.**LICENSE:** A file that likely contains the license information for your project.
 9.**.gitignore:** A Git configuration file that specifies which files and directories should be ignored when versioning your project with Git.
 10. **.gitattributes:** Another Git configuration file that defines attributes for paths in your project.
