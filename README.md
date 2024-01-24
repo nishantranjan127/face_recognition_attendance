@@ -45,4 +45,9 @@ Here's a breakdown of what each library/module is typically used for:
 8. **LICENSE:** A file that likely contains the license information for your project.
 9. **.gitignore:** A Git configuration file that specifies which files and directories should be ignored when versioning your project with Git.
 10. **.gitattributes:** Another Git configuration file that defines attributes for paths in your project.
+## Contributors
+
+[Nishant Ranjan](mailto:nishantranjan127@gmail.com)
+  
+Feel free to contribute by opening issues or pull requests!
 
